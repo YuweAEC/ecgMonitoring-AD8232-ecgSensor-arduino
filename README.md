@@ -53,3 +53,4 @@ To embark on your journey with our Sensor Data Monitoring Project, simply follow
 Thank you for choosing our Sensor Data Monitoring Project. We hope this endeavor inspires creativity, innovation, and exploration in the realm of sensor technology and data analysis. Happy monitoring! 🚀🔬
 
 [![GitHub](https://img.shields.io/badge/Explore%20on-GitHub-brightgreen)](https://github.com/your/repository/link)
+
