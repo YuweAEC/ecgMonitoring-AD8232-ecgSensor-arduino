@@ -26,3 +26,8 @@ Welcome to our Sensor Data Monitoring Project! This project is designed to showc
 2. **Firmware Installation:** Utilize the Arduino IDE to upload the firmware code to the Arduino Uno, ensuring seamless interaction with the sensors.
 3. **Python Script Execution:** Run the Python script on your computer to establish communication with the Arduino Uno via the serial port and fetch sensor data.
 4. **Real-time Monitoring:** The Python script continuously retrieves sensor data from the Arduino Uno, displaying it on the console for monitoring and analysis.
+
+### Key Features:
+- **Multi-Sensor Integration:** Harnesses the capabilities of multiple sensors to gather comprehensive data for diverse applications.
+- **User-friendly Interface:** Employs Python scripting to facilitate easy interaction with the Arduino Uno, enabling real-time monitoring of sensor data.
+- **Customizable and Expandable:** Offers flexibility for customization and expansion, allowing users to tailor the project to their specific needs and incorporate additional sensors or functionalities as desired.
