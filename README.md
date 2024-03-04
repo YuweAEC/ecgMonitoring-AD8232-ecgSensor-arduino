@@ -35,3 +35,12 @@ Welcome to our Sensor Data Monitoring Project! This project is designed to showc
 ## Arduino Firmware
 
 The provided Arduino firmware code orchestrates the data acquisition process, interfacing with sensors and responding to requests from the Python script over the serial port. It retrieves sensor readings and transmits them back to Python for visualization and analysis.
+
+## Getting Started
+
+To embark on your journey with our Sensor Data Monitoring Project, simply follow these steps:
+
+1. **Installation:** Install the necessary Python packages (`pyserial`) to enable communication with the Arduino Uno.
+2. **Connection:** Connect the Arduino Uno to your computer via USB and ensure the correct serial port is specified in the Python script.
+3. **Configuration:** Customize the project as per your requirements, adjusting sensor placement, sampling intervals, and data visualization options.
+4. **Exploration:** Dive into the world of sensor data monitoring, explore various applications, and unleash the full potential of Arduino Uno in data acquisition and analysis.
