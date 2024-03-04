@@ -15,3 +15,6 @@ Welcome to our Sensor Data Monitoring Project! This project is designed to showc
 - **Arduino Uno:** The central microcontroller board responsible for interfacing with sensors and executing firmware.
 - **Breadboard 840 Pin:** Offers a convenient platform for prototyping and connecting electronic components.
 - **USB A to Mini B Cable:** Facilitates communication and programming of the Arduino Uno.
+
+### Wiring Accessories:
+- **Male-to-Female, Male-to-Male, and Female-to-Female Jumper Wires:** Essential for establishing connections between components on the breadboard.
