@@ -31,3 +31,7 @@ Welcome to our Sensor Data Monitoring Project! This project is designed to showc
 - **Multi-Sensor Integration:** Harnesses the capabilities of multiple sensors to gather comprehensive data for diverse applications.
 - **User-friendly Interface:** Employs Python scripting to facilitate easy interaction with the Arduino Uno, enabling real-time monitoring of sensor data.
 - **Customizable and Expandable:** Offers flexibility for customization and expansion, allowing users to tailor the project to their specific needs and incorporate additional sensors or functionalities as desired.
+
+## Arduino Firmware
+
+The provided Arduino firmware code orchestrates the data acquisition process, interfacing with sensors and responding to requests from the Python script over the serial port. It retrieves sensor readings and transmits them back to Python for visualization and analysis.
