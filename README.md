@@ -18,3 +18,11 @@ Welcome to our Sensor Data Monitoring Project! This project is designed to showc
 
 ### Wiring Accessories:
 - **Male-to-Female, Male-to-Male, and Female-to-Female Jumper Wires:** Essential for establishing connections between components on the breadboard.
+
+## Project Overview
+
+### Usage:
+1. **Hardware Setup:** Connect the sensors and modules to the Arduino Uno following the provided circuit diagram.
+2. **Firmware Installation:** Utilize the Arduino IDE to upload the firmware code to the Arduino Uno, ensuring seamless interaction with the sensors.
+3. **Python Script Execution:** Run the Python script on your computer to establish communication with the Arduino Uno via the serial port and fetch sensor data.
+4. **Real-time Monitoring:** The Python script continuously retrieves sensor data from the Arduino Uno, displaying it on the console for monitoring and analysis.
