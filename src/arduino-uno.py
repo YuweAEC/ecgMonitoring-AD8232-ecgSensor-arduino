@@ -42,3 +42,8 @@ try:
         print("Buzzer Status:", buzzer_status)
 
         time.sleep(1)  # Wait for 1 second between readings
+
+# Exit cleanly when the program is interrupted
+except KeyboardInterrupt:
+    arduino.close()  # Close the serial connection
+
