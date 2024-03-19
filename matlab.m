@@ -9,3 +9,4 @@ area = length * width;
 
 % Display the result
 fprintf('The area of the rectangle is: %.2f\n', area);zz
+
